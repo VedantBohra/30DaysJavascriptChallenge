@@ -82,7 +82,7 @@ try{
     myAge = 20
     console.log(`my age is : ${myAge}`)
 }
-catch (error){
+catch(error){
     console.log("Type error is seen")
 }
 
